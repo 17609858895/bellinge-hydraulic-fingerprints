@@ -1,0 +1,15 @@
+processed/
+results/
+results_corrected/
+logs/
+__pycache__/
+*.pyc
+*.parquet
+*.npy
+*.npz
+*.csv
+*.zip
+*.docx
+*.pdf
+*.png
+.env

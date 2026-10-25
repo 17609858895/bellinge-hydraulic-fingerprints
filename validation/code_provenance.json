@@ -1,0 +1,126 @@
+{
+  "files": [
+    {
+      "file": "scripts/01_build_panel.py",
+      "source_sha256": "51771148327fcbaa383440328eded0cf5f901ffd8648090937d1451efed24288",
+      "sha256": "f2bc6cc3a6aab19c2e3a9d7384a6de71b4dfa8d5c49fd633c1cfb9100497e3dc",
+      "changes": [
+        "External sensor path supplied by environment; fail clearly for empty input."
+      ]
+    },
+    {
+      "file": "scripts/03_extract_storage_events.py",
+      "source_sha256": "2ba58fe76dd41625abf351af04a95324a02c9fe6d1ef26d30689907af6a7b94c",
+      "sha256": "efe5aec7bcd78b502ff4694f157d5f392f21cfc62d5468cc9b89270dc0004448",
+      "changes": []
+    },
+    {
+      "file": "scripts/04_build_landmarks.py",
+      "source_sha256": "82ee47bf61f4351bb84ab17fb0d0864e87704377f1c8db89f1987d2f2e203889",
+      "sha256": "7f36540a2fe02c284cefbc18e562cfad36a75b2f06938a30c118c958ebf26751",
+      "changes": []
+    },
+    {
+      "file": "scripts/08_twin_v2_profile.py",
+      "source_sha256": "044f72a453585094dd8d29a2a8e7c930bfeb12a8a5c2881df2b614f066f5d663",
+      "sha256": "97a6db88e3b98b1df4cf46f3612acb87c4f4b27e29a7406950a5e61dada3f37f",
+      "changes": []
+    },
+    {
+      "file": "scripts/09b_drywet_plane.py",
+      "source_sha256": "15bafb069d666f7cb4e03f7f5e30efe4c7fd5707b7a2f1e58c470b9a72c1a1f1",
+      "sha256": "15bafb069d666f7cb4e03f7f5e30efe4c7fd5707b7a2f1e58c470b9a72c1a1f1",
+      "changes": []
+    },
+    {
+      "file": "scripts/11_node_localization.py",
+      "source_sha256": "6fd7368b06b56183bfb84a029d32a4bdae77132c691e1ec1770c04ca49834038",
+      "sha256": "dcf615f1bfc21757284d0fd98b2b2a0399bbcd2b1a59e47ad70a53aeafe6af46",
+      "changes": []
+    },
+    {
+      "file": "scripts/12_rain_build_align.py",
+      "source_sha256": "b1fa515d28991b28b31ad8f897208d25c8bd579ce778811c3bcdc7bf7193d2cc",
+      "sha256": "510518f76cab9d7007fb25dbf61302049e9b365fd4ee3db682bd9e2b2c16b309",
+      "changes": [
+        "External rain-gauge path supplied by environment."
+      ]
+    },
+    {
+      "file": "scripts/13_retrofit_rain_causal.py",
+      "source_sha256": "f06f862865e6944f173e456f7b53f027579df143051fccd568f4d0c9bcb82502",
+      "sha256": "616551a5264287d491ca1c0112d6888348414389d51d803f67c184f332fc2897",
+      "changes": []
+    },
+    {
+      "file": "scripts/14_warning_with_rain.py",
+      "source_sha256": "364ece75a76935f06160e74324dc522fddec9eecab5111f65748f3a28bdd7355",
+      "sha256": "382e0b73987e5bbb703b467cab8cc810b246eb143ded4a5988dfefee26c87847",
+      "changes": []
+    },
+    {
+      "file": "scripts/15_offset_and_headloss.py",
+      "source_sha256": "6f8415a13176d8bda3dff70676a6d5efcae7e7c35f3ea8df4473652a77383f5b",
+      "sha256": "2eaed78b54ac1ad952f41b66b8cd09d40ec6522db7a07e50f43fa7ff6036e744",
+      "changes": []
+    },
+    {
+      "file": "scripts/16_warning_robustness.py",
+      "source_sha256": "8a34b154fd6ec9579e872c6f21c6b61f615e16b436b2832766bcbb1a7ba8c336",
+      "sha256": "56332645d591800e573a15bb01bdf2f1533021fd667aea139ddaffed59a48c68",
+      "changes": []
+    },
+    {
+      "file": "scripts/16b_anchor_bootstrap.py",
+      "source_sha256": "1eed403b83148ef2192d3fff705320febdaa132a98192dae75e39320f03f38a6",
+      "sha256": "1f16acea03fea82595c8f27846864304006c37f98ffc4c887c8489ef8590770f",
+      "changes": []
+    },
+    {
+      "file": "scripts/18_causal_sensitivity.py",
+      "source_sha256": "cc01a91d7ab200adfa1d3e581451c1d2a36aaac81c8b9d243c3d6560db0efbcf",
+      "sha256": "d1a2527ce76a68b334442756f7da0f4fa79faec25e5e9356981c27478c2d67ae",
+      "changes": []
+    },
+    {
+      "file": "scripts/19_figure_data.py",
+      "source_sha256": "c772dc55d4fdf11472bb9357fad8ff42c7b129b023b0d6456b3afceca16c2e89",
+      "sha256": "ce4e63550730cff5d6e5683cecb944469b15fc6c3f2723399a6f715ad75bf355",
+      "changes": []
+    },
+    {
+      "file": "scripts/20_si_data.py",
+      "source_sha256": "476f3465252afcd0f1b145f0941736ac75a74e3a3515710911dfe0761e45fa61",
+      "sha256": "277a2231d5da45f6c4e848d6db40ddfa6a52062184bbe549096d8fe39eb98435",
+      "changes": []
+    },
+    {
+      "file": "scripts/21_calibration.py",
+      "source_sha256": "2278329511955d6d740aa5bb00aa6ccfea01986f08e41a7b4032a1fe1e0bde14",
+      "sha256": "a14417f54b4b5d1223991e8a6c9c20b7c0620ea22ef908e5d4d79de580294118",
+      "changes": []
+    },
+    {
+      "file": "scripts/wlib.py",
+      "source_sha256": "9f046ca50a28752ed0a895ceb978e102b8cb2441e110e7e3410512091549332b",
+      "sha256": "037842d99e183d179a051c868fcf221bf0bb7198c069daed8d5d701426e59857",
+      "changes": []
+    },
+    {
+      "file": "scripts/17_adaptive_feedback.py",
+      "source_sha256": "9980ed7db2a9afbb92e5f06bbb41c942a24281b07d2f750d138009a2b487eb9d",
+      "sha256": "ff4a3de98b23735685549cfaad639490d93a111e5d721026bdf478056829b794",
+      "changes": [
+        "Repository-relative paths. Import-safe main. Historical comparisons retained in local validation records; current outputs and all score/feedback calculations unchanged."
+      ]
+    },
+    {
+      "file": "scripts/22_overlap_uncertainty.py",
+      "source_sha256": "81f3e4bbe2f8d6fdbfb102521874cb6cdcb3a5830bc103bd7d276958c8ee8131",
+      "sha256": "c5052f755e284c13c93e0da864626a7ae4b8bed0a48ab6973b76fc857b037374",
+      "changes": [
+        "Repository-relative paths only; point-estimator and uncertainty checks retained."
+      ]
+    }
+  ]
+}
